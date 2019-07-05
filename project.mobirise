@@ -21,10 +21,12 @@
     "screenshot": "screenshot.png",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/animated-pakistan-flag-image-0006.gif",
+    "favicon": "",
     "noImageResize": "true",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
