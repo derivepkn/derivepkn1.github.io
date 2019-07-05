@@ -191,7 +191,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": "27",
