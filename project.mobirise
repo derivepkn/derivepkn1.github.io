@@ -24,9 +24,9 @@
     "favicon": "",
     "noImageResize": "true",
     "gdpr": "",
-    "google-analytics": "google-site-verification: google76e13888ab4e8a90.html",
+    "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
