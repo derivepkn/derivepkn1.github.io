@@ -13,6 +13,10 @@
 }
 #footer1-8 P {
   text-align: center;
+  color: #990f0b;
+}
+#contacts3-c DIV {
+  color: #ffffff;
 }
 #dropdown-menu-2btn-e .hide-buttons [data-button] {
   display: none !important;
@@ -20,19 +24,19 @@
 #dropdown-menu-2btn-e .nav .link,
 #dropdown-menu-2btn-e .dropdown-item {
   font-size: 1.2em;
-  color: #990f0b;
+  color: #05386b;
 }
 #dropdown-menu-2btn-e .navbar,
 #dropdown-menu-2btn-e .dropdown-menu {
-  background: #5cb85c;
+  background: #5cdb95;
 }
 #dropdown-menu-2btn-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-e .dropdown-menu a:hover,
 #dropdown-menu-2btn-e .dropdown-menu a:focus {
-  background: #4eb24e;
+  background: #4bd78a;
 }
 #dropdown-menu-2btn-e .navbar-toggler {
-  color: #990f0b;
+  color: #05386b;
 }
 #dropdown-menu-2btn-e STRONG {
   font-family: 'Alegreya Sans', sans-serif;
